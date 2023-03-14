@@ -1,4 +1,4 @@
 # Snake!
 #Overview
-[Snake](https://user-images.githubusercontent.com/68283243/225110778-5771e020-c612-438f-b918-a570c6b99fe7.png)
-Hardcoded snake game using C++
+![image](https://user-images.githubusercontent.com/68283243/225111123-c6920490-c34c-4080-bb0b-3f2107348b5e.png)
+
